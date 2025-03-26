@@ -1,0 +1,34 @@
+[
+  {
+    "Date": "12/1/2023",
+    "Event": "Lunch at Arby's",
+    "Time": [
+      "9:00:00",
+      "12:00:00"
+    ]
+  },
+  {
+    "Date": "12/1/2023",
+    "Event": "Going to the bank by Arby's",
+    "Time": [
+      "13:00:00",
+      "17:00:00"
+    ]
+  },
+  {
+    "Date": "12/15/2023",
+    "Event": "Business meeting at Arby's",
+    "Time": [
+      "9:00:00",
+      "12:00:00"
+    ]
+  },
+  {
+    "Date": "1/1/2024",
+    "Event": "Lunch at Arby's",
+    "Time": [
+      "9:00:00",
+      "12:00:00"
+    ]
+  }
+]
