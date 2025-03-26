@@ -1,0 +1,5 @@
+Product,Price
+Toilet Paper,600
+Toothbrush,99
+Towel,350
+Charcoal,949

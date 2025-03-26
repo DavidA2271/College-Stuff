@@ -1,0 +1,6 @@
+Product,Price
+Soup,349
+Hot Fudge,399
+Watermelon,300
+Mango,120
+Milk,299

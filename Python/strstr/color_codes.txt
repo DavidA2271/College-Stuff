@@ -1,0 +1,8 @@
+Color Codes:
+
+- Primary: #FF5733, #33FF57, #3357FF
+- Secondary: #F5F, #5F5, #55F
+- Backgrounds: #FAFAFA, #123456, #ABC
+
+Use these in your design mockups.
+

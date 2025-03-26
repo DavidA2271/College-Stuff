@@ -1,0 +1,8 @@
+Check out our resources:
+
+- Homepage: http://example.org
+- Secure Portal: https://secure.example.org/login
+- FTP Server: ftp://ftp.example.org/files
+
+Stay connected!
+
